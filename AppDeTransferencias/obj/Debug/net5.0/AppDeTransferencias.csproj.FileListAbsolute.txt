@@ -1,0 +1,16 @@
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.exe
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.deps.json
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.runtimeconfig.json
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.runtimeconfig.dev.json
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.dll
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\ref\AppDeTransferencias.dll
+C:\Users\bruno\Projetos\AppDeTransferencias\bin\Debug\net5.0\AppDeTransferencias.pdb
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.csprojAssemblyReference.cache
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.AssemblyInfoInputs.cache
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.AssemblyInfo.cs
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.dll
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\ref\AppDeTransferencias.dll
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.pdb
+C:\Users\bruno\Projetos\AppDeTransferencias\obj\Debug\net5.0\AppDeTransferencias.genruntimeconfig.cache
